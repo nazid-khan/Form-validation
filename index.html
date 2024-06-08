@@ -9,15 +9,17 @@
 <body>
     <div class="form-container">
         <h2>Login</h2>
-        <form action="">
+        <form action="" onsubmit="return validateForm()">
             <input type="text" placeholder="User Name" id="username"><br>
-            <p id="user-error">Error</p>
+            <p id="userError"></p>
             <input type="password" placeholder="Password" id="password"><br>
-            <p id="password-error">Error</p>
+            <p id="passwordError"></p>
             <input type="submit" id="submit">
         </form>
     </div>
 
     <script src="script.js"></script>
+
+
 </body>
 </html>

@@ -44,7 +44,7 @@ input{
     border: none;
     width: 100px;
 }
-#user-error,#password-error{
+#userError,#passwordError{
     color: red;
     text-align: left;
     margin-top: 0px;
