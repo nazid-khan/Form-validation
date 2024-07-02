@@ -1,4 +1,4 @@
-# This is a Form Validation page.
+# Form Validation page.
 
 A brief description of how form validation works. 
 This project is here to shows the solution of Edabit's question and 
