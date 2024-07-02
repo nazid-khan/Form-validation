@@ -20,4 +20,4 @@ it's for everyone whose try to find the solution
 
 ## Lessons Learned
 
-I Learned about how form validation works in websites while creating this project it was really fun to know about it . 
+I Learned how form validation works in websites while creating this project it was really fun to know about it . 
